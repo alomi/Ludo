@@ -1,0 +1,16 @@
+X:\Ludo\Ludo\Ludo\bin\Debug\Ludo.exe.config
+X:\Ludo\Ludo\Ludo\bin\Debug\Ludo.exe
+X:\Ludo\Ludo\Ludo\bin\Debug\Ludo.pdb
+X:\Ludo\Ludo\Ludo\obj\Debug\Ludo.csprojResolveAssemblyReference.cache
+X:\Ludo\Ludo\Ludo\obj\Debug\App.g.cs
+X:\Ludo\Ludo\Ludo\obj\Debug\MainWindow.g.cs
+X:\Ludo\Ludo\Ludo\obj\Debug\Ludo_MarkupCompile.cache
+X:\Ludo\Ludo\Ludo\obj\Debug\Ludo_MarkupCompile.lref
+X:\Ludo\Ludo\Ludo\obj\Debug\App.baml
+X:\Ludo\Ludo\Ludo\obj\Debug\MainWindow.baml
+X:\Ludo\Ludo\Ludo\obj\Debug\Ludo.g.resources
+X:\Ludo\Ludo\Ludo\obj\Debug\Ludo.Properties.Resources.resources
+X:\Ludo\Ludo\Ludo\obj\Debug\Ludo.csproj.GenerateResource.Cache
+X:\Ludo\Ludo\Ludo\obj\Debug\Ludo.csproj.CoreCompileInputs.cache
+X:\Ludo\Ludo\Ludo\obj\Debug\Ludo.exe
+X:\Ludo\Ludo\Ludo\obj\Debug\Ludo.pdb

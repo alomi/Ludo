@@ -1,0 +1,154 @@
+X:\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.config
+X:\Ludo\Ludo\Ludo\bin\Release\Ludo.exe
+X:\Ludo\Ludo\Ludo\bin\Release\Ludo.pdb
+X:\Ludo\Ludo\Ludo\obj\Release\App.g.cs
+X:\Ludo\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.cache
+X:\Ludo\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.lref
+X:\Ludo\Ludo\Ludo\obj\Release\Ludo.g.resources
+X:\Ludo\Ludo\Ludo\obj\Release\Ludo.Properties.Resources.resources
+X:\Ludo\Ludo\Ludo\obj\Release\Ludo.csproj.GenerateResource.Cache
+X:\Ludo\Ludo\Ludo\obj\Release\Ludo.exe
+X:\Ludo\Ludo\Ludo\obj\Release\Ludo.pdb
+X:\Ludo\Ludo\Ludo\obj\Release\Ludo.csprojResolveAssemblyReference.cache
+X:\Ludo\Ludo\Ludo\obj\Release\Ludo.csproj.CoreCompileInputs.cache
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.config
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\bin\Release\Ludo.exe
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\bin\Release\Ludo.pdb
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\Ludo.csprojResolveAssemblyReference.cache
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\App.g.cs
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\MainWindow.g.cs
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.g.cs
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.cache
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.lref
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\MainWindow.baml
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.baml
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\Ludo.g.resources
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\Ludo.Properties.Resources.resources
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\Ludo.csproj.GenerateResource.Cache
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\Ludo.csproj.CoreCompileInputs.cache
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\Ludo.exe
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\Ludo.pdb
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.g.cs
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.baml
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.CodeAnalysisLog.xml
+C:\Users\gope2\Documents\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.lastcodeanalysissucceeded
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.config
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.pdb
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.CodeAnalysisLog.xml
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.lastcodeanalysissucceeded
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.csprojResolveAssemblyReference.cache
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.g.cs
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.g.cs
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\App.g.cs
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.cache
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.lref
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.baml
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.baml
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.g.resources
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.Properties.Resources.resources
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.csproj.GenerateResource.Cache
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.csproj.CoreCompileInputs.cache
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.exe
+X:\Ludo\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.pdb
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.config
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.pdb
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.CodeAnalysisLog.xml
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.lastcodeanalysissucceeded
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.csprojResolveAssemblyReference.cache
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.g.cs
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.g.cs
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\App.g.cs
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.cache
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.lref
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.baml
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.baml
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.g.resources
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.Properties.Resources.resources
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.csproj.GenerateResource.Cache
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.csproj.CoreCompileInputs.cache
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.exe
+C:\Users\gope2\Documents\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.pdb
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.config
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.pdb
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.CodeAnalysisLog.xml
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.lastcodeanalysissucceeded
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.csprojResolveAssemblyReference.cache
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.g.cs
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.g.cs
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\App.g.cs
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.cache
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.lref
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.baml
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.baml
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.g.resources
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.Properties.Resources.resources
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.csproj.GenerateResource.Cache
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.csproj.CoreCompileInputs.cache
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.exe
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\Ludo.pdb
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\Views\MenuPage.g.cs
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\TestWindow.g.cs
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\TestWindow.baml
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\Views\MenuPage.baml
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\GeneratedInternalTypeHelper.g.cs
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\Views\GamePage.g.cs
+X:\Ludo\Ludo15 linn version\Ludo14\Ludo11 senasteee\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\Views\GamePage.baml
+D:\Ludo\Ludo\bin\Release\Ludo.exe.config
+D:\Ludo\Ludo\bin\Release\Ludo.exe
+D:\Ludo\Ludo\bin\Release\Ludo.pdb
+D:\Ludo\Ludo\bin\Release\Ludo.exe.CodeAnalysisLog.xml
+D:\Ludo\Ludo\bin\Release\Ludo.exe.lastcodeanalysissucceeded
+D:\Ludo\Ludo\obj\Release\Ludo.csprojResolveAssemblyReference.cache
+D:\Ludo\Ludo\obj\Release\PresentationLayer\Views\MenuPage.baml
+D:\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.g.cs
+D:\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.g.cs
+D:\Ludo\Ludo\obj\Release\PresentationLayer\Views\GamePage.g.cs
+D:\Ludo\Ludo\obj\Release\PresentationLayer\Views\MenuPage.g.cs
+D:\Ludo\Ludo\obj\Release\App.g.cs
+D:\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.cache
+D:\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.lref
+D:\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.baml
+D:\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.baml
+D:\Ludo\Ludo\obj\Release\PresentationLayer\Views\GamePage.baml
+D:\Ludo\Ludo\obj\Release\Ludo.g.resources
+D:\Ludo\Ludo\obj\Release\Ludo.Properties.Resources.resources
+D:\Ludo\Ludo\obj\Release\Ludo.csproj.GenerateResource.Cache
+D:\Ludo\Ludo\obj\Release\Ludo.csproj.CoreCompileInputs.cache
+D:\Ludo\Ludo\obj\Release\Ludo.exe
+D:\Ludo\Ludo\obj\Release\Ludo.pdb
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\bin\Release\Ludo.exe.config
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\bin\Release\Ludo.exe
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\bin\Release\Ludo.pdb
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\bin\Release\Ludo.exe.CodeAnalysisLog.xml
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\bin\Release\Ludo.exe.lastcodeanalysissucceeded
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\Ludo.csprojResolveAssemblyReference.cache
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\PresentationLayer\Views\MenuPage.baml
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.g.cs
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.g.cs
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\PresentationLayer\Views\GamePage.g.cs
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\PresentationLayer\Views\MenuPage.g.cs
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\App.g.cs
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.cache
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\Ludo_MarkupCompile.lref
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.baml
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.baml
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\PresentationLayer\Views\GamePage.baml
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\Ludo.g.resources
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\Ludo.Properties.Resources.resources
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\Ludo.csproj.GenerateResource.Cache
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\Ludo.csproj.CoreCompileInputs.cache
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\Ludo.exe
+X:\Ludo\Ludo19 SENASTE\Ludo\Ludo\obj\Release\Ludo.pdb
+X:\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.CodeAnalysisLog.xml
+X:\Ludo\Ludo\Ludo\bin\Release\Ludo.exe.lastcodeanalysissucceeded
+X:\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\Views\MenuPage.baml
+X:\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.g.cs
+X:\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.g.cs
+X:\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\Views\GamePage.g.cs
+X:\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\Views\MenuPage.g.cs
+X:\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameMenu.baml
+X:\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\GameWindow.baml
+X:\Ludo\Ludo\Ludo\obj\Release\PresentationLayer\Views\GamePage.baml
